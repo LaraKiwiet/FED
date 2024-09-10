@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.klm.nl/en?gad_source=1
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hHome  
+  Home  
   <img src="readme-images/KLM.Home" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Bieren  
+  Real Deal  
   <img src="readme-images/KLM.RealDeal" width="375px" alt="omschrijving van de pagina">
  
 </details>
