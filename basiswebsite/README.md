@@ -57,6 +57,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+    -Over het algemeen een prettige website om te zien en erg duidelijk waar je moet zijn. Soms wel erg dubbelop. 
+    -Titel benamingen prima voor als je goed kunt zien, voice over nog vaag.
+    -Begin van de site wordt niet in volgorde verteld met assistentie
+    - Veel gebruik van DIV en erg straight to the point uitgelegd. Pagina's zijn niet inleidend voor assistentie begeleiding of voice over
+    - Hoofdlogo is H1 maar zonder goede alt tekst
+    - Alt tekst vaak in engels maar Lang is wel NL, ook is de beschrijving niet erg duidelijk
+    - De 'onzichtbare' il/ul worden wel benoemd in de footer, duurt ook lang om door te tikken en maakt het erg onduidelijk.
+    - Als link wordt geopend is het niet duidelijk dat deze opent in een ander tabblad voor de assistentie optie
+    - Geen dark optie & hoog contrast ook niet 
+
 
 </details>
 
@@ -68,13 +78,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/Breakdownschets.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/KLM.Menu.PNG" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/Footer.PNG" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -99,6 +109,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
+
+  We zouden het graag willen hebben over:
+    - Navigaties en daar een dropdown functie van maken/hebben
+
+  Evt met tijd die over is:
+    - Hoe werkt TAB
+    - Hoe maak ik mijn cursor een afbeelding
+    
 
 
   ### Verslag van meeting
