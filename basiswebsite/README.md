@@ -116,16 +116,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Evt met tijd die over is:
     - Hoe werkt TAB
     - Hoe maak ik mijn cursor een afbeelding
-    
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Mag ene tabel gebruiken voor de bestemmingen om zo beter te kunnen stijlen 
+  - Beter een ander programeer programma gebruiken
+  - Onze NAV zit goed in elkaar
 
 </details>
 
@@ -146,11 +144,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  
+  | Lara         
+•⁠  ⁠ik heb een vraag over de nav, die verspringt bij mij op half beeld
+•⁠  ⁠Mijn tabel Sommige hebben een extra colum nodig en of ik die gewoon ‘vrij kan laten’
+•⁠  ⁠⁠En dus de tab die ik boven aan heb
+•⁠  ⁠⁠En kort tussendoor of ik nog kan switchen van 2e pagina
 
+  |Rosalie:
+•⁠  ⁠hoe kan ik bij een carroussel een doorklik knop toevoegen
+•⁠  ⁠⁠hoe kan ik een iframe vormgeven
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
