@@ -144,7 +144,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
-  
+
   | Lara         
 •⁠  ⁠ik heb een vraag over de nav, die verspringt bij mij op half beeld
 •⁠  ⁠Mijn tabel Sommige hebben een extra colum nodig en of ik die gewoon ‘vrij kan laten’
@@ -158,10 +158,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
 
 </details>
 

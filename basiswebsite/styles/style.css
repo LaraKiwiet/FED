@@ -6,7 +6,6 @@
 }
 
 
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
@@ -19,7 +18,20 @@
 	--color-ButtonBackground:#0e578c;
 	--color-Borders:#006fc9;
 	--color-Accent:#e37222;
+
+	/*de manier om dark/light te doen	
 	
+	--color-Background:light-dark(#ffffff,#000000);
+	--color-FooterBackground:light-dark(#fafafa,);
+	--color-Text-Block:light-dark(#072b45,);
+	--Color-FocusState:light-dark(#0077cd,);
+	--color-ButtonBackground:light-dark(#0e578c,);
+	--color-Borders:light-dark(#006fc9,);
+	--color-Accent:light-dark(#e37222,);
+	
+	*/
+	
+	color-scheme: light dark;
 }
 
 /* font = UniversalSansTextRegular */
@@ -34,10 +46,107 @@
 body{
 	background-color: var(--color-Background);
 	color: var(--color-Text-Block);
-	font-family: UniversalSansTextRegular;
 }
 
-section:first-of-type{
+@font-face {
+    font-family: 'UNIVERSAL SANS PERSONAL USE Regular';
+    src: local('UNIVERSAL SANS PERSONAL USE Regular'), url('UNIVERSAL SANS PERSONAL USE.woff') format('woff');
+}
+
+
+
+
+
+/* KLM Holidays vakje */
+
+/* section:first-of-type{
 	color: var(--color-FooterBackground);
 	background-color: var(--color-Text-Block);
+	border-radius: 15px;
+
+} */
+
+section:first-of-type li{
+	color: var(--color-FooterBackground);
+	background-color: var(--color-Text-Block);
+	border-radius: 15px;
+	display: flex;
+	z-index: 1;
+	position: relative;
 }
+
+section:first-of-type li h2{
+	color: var(--color-FooterBackground);
+	background-color: var(--color-Text-Block);
+	border-radius: 15px;
+	padding: 1em;
+	display: flex;
+	position: absolute;
+	left: 1em;
+	right: 1em;
+	bottom: 1em;
+}
+
+section:first-of-type li p{
+	color: var(--color-FooterBackground);
+	background-color: var(--color-Text-Block);
+	border-radius: 15px;
+	padding: 1em;
+	display: flex;
+	position: absolute;
+	left: 1em;
+	right: 1em;
+	bottom: 1em;
+}
+section:first-of-type li a{
+	color: var(--color-FooterBackground);
+	background-color: var(--color-Text-Block);
+	border-radius: 15px;
+	padding: 1em;
+	display: flex;
+	position: absolute;
+	right: 1em;
+	bottom: 1em;
+}
+section:first-of-type img{
+	order: -5;
+	width:100%;
+	z-index: -1;	
+}
+
+
+
+
+
+
+
+/* Bestemmingen en deals */
+
+section:nth-of-type(2){
+	display: grid;
+}
+
+
+section:nth-of-type(2) table{
+	
+}
+
+
+
+
+
+
+
+
+section:nth-of-type(2) tr:nth-of-type(1) img:nth-of-type(1){
+	width:5em;
+}
+section:nth-of-type(2) tr:nth-of-type(1) img:nth-of-type(2){
+	object-fit: scale-down;
+}
+section:nth-of-type(2) tr:nth-of-type(1) img:nth-of-type(3){
+	object-fit: scale-down;
+} 
+
+
+
